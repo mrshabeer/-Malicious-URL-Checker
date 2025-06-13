@@ -24,11 +24,15 @@ class BlankFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         arguments?.let {
-asfasfasfasczxczxczxcsjalskdjaslkd
+            asfasfasfasczxczxczxcsjalskdjaslkd
             asdjaslkdjasld,
             asdjaslkdjaslkd,ma"asdjahskldjasld
             sadalksjdhalskdjasl
-            "
+
+
+            dasdjhaksczmxnbcznmx,cgasjc
+            ""
+            sadlkdjlaskd
 
             param1 = it.getString(ARG_PARAM1)
             param2 = it.getString(ARG_PARAM2)
